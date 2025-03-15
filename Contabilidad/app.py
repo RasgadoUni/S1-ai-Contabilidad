@@ -63,7 +63,7 @@ st.markdown(
     """
     <style>
     .title {
-        font-size: 40px;
+        font-size: 45px;
         font-weight: bold;
         color: #326273;
         text-align: center;
